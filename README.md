@@ -237,3 +237,22 @@ https://dev.to/mkdev/kubernetes-capacity-and-resource-management-its-not-what-yo
 Native EKS Ingress with AWS Load Balancer Controller
 
 https://blog.antoinechoula.ga/native-eks-ingress-with-aws-load-balancer-controller
+
+
+Kubernetes Capacity Management
+
+````Evolution of Capacity Management: From Bare Metal to Kubernetes: https://mkdev.me/posts/evolution-of-capacity-management-from-bare-metal-to-kubernetes
+
+Kubernetes Capacity and Resource Management: It's Not What You Think It Is: https://mkdev.me/posts/kubernetes-capacity-and-resource-management-it-s-not-what-you-think-it-is
+
+Kubernetes Is Not an Orchestrator: The Jump to Universality for Infrastructure Abstractions: https://mkdev.me/posts/kubernetes-is-not-an-orchestrator-the-jump-to-universality-for-infrastructure-abstractions
+````
+
+
+Canary deployment using Argo Rollouts and Nginx
+
+https://medium.com/@luigi.toziani_30776/canary-deployment-using-argo-rollouts-with-nginx-7a1ee32b52f6
+
+Unreadable Metrics: Why You Can’t Find Anything in Your Monitoring Dashboards
+
+https://horovits.medium.com/unreadable-metrics-why-you-cant-find-anything-in-your-monitoring-dashboards-12fcc23d34c8
